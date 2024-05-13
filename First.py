@@ -248,4 +248,4 @@ print(is_prime)
 #     attempts += 1
 
 # Basic Function Syntex    
- 
+#  this is new feature
